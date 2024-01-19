@@ -17,5 +17,5 @@ a ublock filter list for productivity
 2. go to `brave://adblock`
 3. copy paste the contents of `list.txt` in the custom filters textbox
 
-## credits
+# credits
 [Saai](https://github.com/saai-sudarsanan-d) sharing [Chris Titus's video on Removing Youtube Shorts](https://www.youtube.com/watch?v=Nfr0uIU2lDI)
