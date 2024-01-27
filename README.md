@@ -19,3 +19,4 @@ a ublock filter list for productivity
 
 # credits
 [Saai](https://github.com/saai-sudarsanan-d) sharing [Chris Titus's video on Removing Youtube Shorts](https://www.youtube.com/watch?v=Nfr0uIU2lDI)
+[gijsdev](https://github.com/gijsdev) for his [base ublock list](https://github.com/gijsdev/ublock-hide-yt-shorts) 
